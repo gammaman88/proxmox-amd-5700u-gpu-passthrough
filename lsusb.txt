@@ -1,0 +1,6 @@
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 003: ID 8087:0029 Intel Corp. AX200 Bluetooth
+Bus 003 Device 002: ID 0d8c:0014 C-Media Electronics, Inc. Audio Adapter (Unitek Y-247A)
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub

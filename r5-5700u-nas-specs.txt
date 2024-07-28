@@ -1,0 +1,11 @@
+cpu : amd ryzen5 5700U
+mem : ddr4 16*2 = 32g
+display : hdmi, dp // vega8 ? lucienne
+nvme : intel 7600 ? 1TB
+hdd : wd red 6TB
+USB3 : 2port
+USB2 : 2port
+sound output : 3.5mm
+mem slot : 2
+nvme 2280 slot : 2
+3.5inch HDD slot : 2
